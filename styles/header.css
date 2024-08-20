@@ -57,9 +57,19 @@
 .container__botao {
     display: none;
 }
+
 .container_título{
     display: none;
 }
+
 .opções{
     display: none;
+}
+
+@media and {min-width: 1024px;}{
+    .container_título{
+        display:block
+    }
+}
+    
 }
