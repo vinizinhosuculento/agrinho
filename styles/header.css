@@ -66,10 +66,16 @@
     display: none;
 }
 
-@media and {min-width: 1024px;}{
+@media and (min-width: 1024px);{
     .container_título{
-        display:block
+        display:block;
+        font-size: 30px;
+        font font-weight: 700px;
+    }
+    .opções{
+        display:flex;
+        justify-content: space-between;
+        align-items: flex-end;
     }
 }
     
-}
