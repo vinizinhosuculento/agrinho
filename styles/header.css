@@ -69,9 +69,9 @@
 @media (min-width: 1024px){
     .container__titulo{
         display:block;
-        font-size: 40px;
+        font-size: 50px;
         font-weight: 700;
-        margin-right: 170px;
+        margin-right: 250px;
         
     }
     .opções{
