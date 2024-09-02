@@ -82,8 +82,8 @@
     }
     .opções-itens{
         display: flex;
-        justify-content:space-between;
-        align-items: flex-start;
+        justify-content: center;
+        align-items: flex-end
         font-size: 20;
         margin: 15px;
     }
