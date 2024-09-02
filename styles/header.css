@@ -80,5 +80,11 @@
         align-items: flex-end;
         font-size: 24px;
     }
+    .opções-itens{
+        display: flex;
+        justify-content:space-between
+        align-items:right
+        fonte-size:20
+    }
 }
     
