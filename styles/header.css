@@ -83,7 +83,7 @@
     .opções-itens{
         display: flex;
         justify-content:space-between;
-        align-items: flex-end;
+        align-items: flex-start;
         font-size: 20;
         margin: 15px;
     }
