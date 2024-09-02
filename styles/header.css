@@ -82,9 +82,9 @@
     }
     .opções-itens{
         display: flex;
-        justify-content:space-between
-        align-items:right
-        fonte-size:20
+        justify-content:space-between;
+        align-items: flex-end;
+        font-size: 20;
     }
 }
     
