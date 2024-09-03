@@ -22,7 +22,7 @@ body {
 }
 {
    .banner{
-    background: var(blue);
+    background: var(--azul-degrade);
    background: blue;
    }
 }
