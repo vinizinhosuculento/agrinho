@@ -19,11 +19,8 @@ body {
     font-family: var(--fonte-principal);
     font-size: 20px;
     font-weight: 250;
+    .banner{
+        background: var(--azul-degrade);
+        --azul-degrade: blue;
+       }
 
-}
-{
-   .banner{
-    background: var(--azul-degrade);
-    --azul-degrade: blue;
-   }
-}
