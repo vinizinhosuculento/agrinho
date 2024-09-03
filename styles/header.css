@@ -77,7 +77,11 @@
     .opções{
         display:flex;
         justify-content: space-between;
-        align-items: flex-end;
+        align-items: flex-end;    banner{
+            background: var(--azul-degrade);
+          background: blue;
+           }
+    
         font-size: 24px;
     }
     .opções-itens{

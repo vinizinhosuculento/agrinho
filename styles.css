@@ -23,6 +23,6 @@ body {
 {
    .banner{
     background: var(--azul-degrade);
-    --azul-degrade: blue;
+   background: blue;
    }
 }
