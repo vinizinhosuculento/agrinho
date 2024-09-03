@@ -24,7 +24,6 @@ body {
 {
    .banner{
     background: var(--azul-degrade);
-    --azul-degrade: linear-gradient(97.54deg, #1900ff 35.49%, #1100ff 165.37%);
-
+    --azul-degrade: blue;
    }
 }
